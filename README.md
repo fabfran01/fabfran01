@@ -6,7 +6,7 @@
 - Às vezes programador
 
 ### 📚 Estudando: 
-- Engenharia da Computação
+- Engenharia da Computação na Univesp
 
 ### 👨‍💻 Linguagens:
 - HTML
@@ -16,7 +16,7 @@
 - PHP
 
 ### ⚽ Time:
-Vascão da Gama
+Vasco da Gama
 
 ### 🎶 Sons:
 - Johny Cash
